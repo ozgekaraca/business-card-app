@@ -20,7 +20,7 @@ Delete and update operations will also be added...
 # Images
 
 ![](business-card-app-img.png)
-![](modal-img.png)
+
 
 
 ## Further help
