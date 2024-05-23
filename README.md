@@ -12,7 +12,6 @@ Angular material was used.
 
 Retrieving business card information and adding new business cards using the get method via a mock API
 
-Delete and update operations will also be added...
 
 #
 
